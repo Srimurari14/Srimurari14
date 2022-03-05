@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning best practices for Data Science
 - 📫 How to reach me: by my mail   murari.dachepalli@gmail.com
 
-LinkedIn - linkedin.com/in/srimurari-dachepalli-b12a581b6  
+LinkedIn - linkedin.com/in/srimurari-dachepalli-b12a581b6    
