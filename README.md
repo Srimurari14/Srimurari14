@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 - 🔭 I'm a Student
 - 🌱 I’m currently learning best practices for Data Science
 - 👯 I’m looking to collaborate on any Data Science project.
-- 🤔 I’m looking for help with Machine Learning.
-- 💬 Ask me about R Programming.
+- 🤔 I’m looking for help with Machine Learning and Deep Learning.  
+- 💬 Ask me about R Programming,Pandas,EDA,Data Analysis.  
 - 📫 How to reach me: by my mail   murari.dachepalli@gmail.com
 - 😄 Pronouns: He/Him
 
