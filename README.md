@@ -26,15 +26,24 @@ Welcome to my GitHub profile! I’m a passionate **Data Scientist** and **Comput
    - **Research Details**:
      - Collaborated with a 4-person team to optimize CNN models for higher accuracy by exploring hyperparameter settings like layer count, epochs, image orientation, clarity, and activation functions.
      - After initial research, observed overfitting with training accuracy around 90% and test accuracy at 76%. By implementing **DenseNet architecture**, we improved accuracies to **90% (train)** and **89% (test)**.
-     - Conducted experiments on multiple platforms: **CPU**, **GPU**, **HPC**, and **Quantum machines**. (Extended Research Work - This is done using DenseNet (Not Published)
+     - Conducted experiments on multiple platforms: **CPU**, **GPU**, **HPC**, and **Quantum machines**.
    - **Outcomes**: Published research paper and presented findings at the **ICISC 2023 conference**, which helped advance the understanding of hyperparameter optimization in CNNs for medical imaging.
+
+## 🚀 Projects
+### 🔍 [Fuel Price Optimization](https://github.com/example/fuel-price-optimization)  
+**Role:** Data Analyst  
+**Description:** A project developed for a client during my tenure at **Tiger Analytics**, focused on optimizing daily fuel pricing by analyzing client sales and competitor price changes. 
+**Responsibilities:**  
+- Conducted data exploration and prepared datasets by integrating client data, competitor data, and additional features like seasonality and trend.  
+- Built and fine-tuned a **Lasso regression model**, with its coefficients used in another model to recommend fuel prices twice daily.  
+- Automated the data preparation process using a pipeline and **Pandas UDFs** in **PySpark**, significantly reducing implementation time.  
+**Technologies:** Python, PySpark, SQL, Azure Databricks, Azure Blob Storage  
+**Achievements:** Improved data pipeline efficiency and contributed to a robust pricing strategy.
 
 ## 📫 How to Reach Me
 - Email: [dachepallisrimurari@gmail.com](mailto:dachepallisrimurari@gmail.com)
 - LinkedIn: [Sri Murari Dachepalli](https://www.linkedin.com/in/srimurari-dachepalli)
 - GitHub: [@Srimurari14](https://github.com/Srimurari14)
 
-
 ## 🤝 Let's Connect!
 - I'm always open to collaborating on interesting projects and learning from others. Feel free to reach out if you'd like to work together!
-
