@@ -33,7 +33,6 @@ Welcome to my GitHub profile! I’m a passionate **Data Scientist** and **Comput
 ## 📈 GitHub Stats
 
 ![Sri Murari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Srimurari14&show_icons=true&count_private=true&hide=prs&theme=radical)
-![Profile Views](https://visitor-badge.glitch.me/badge?page_id=Srimurari14.Srimurari14)
 
 ## 📫 How to Reach Me
 - Email: [dachepallisrimurari@gmail.com](mailto:dachepallisrimurari@gmail.com)
