@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I’m a passionate **Data Scientist** and **Comput
 - **Version Control**: GitHub
 
 ## 🔬 Research Work
-### **1. Assiduous Study of the Hyperparameters’ Influence on CNN Using COVID-19 CT Images**
+### **Assiduous Study of the Hyperparameters’ Influence on CNN Using COVID-19 CT Images**
    - **Objective**: Conducted research on the impact of hyperparameters on the performance of **Convolutional Neural Networks (CNNs)** in analyzing **COVID-19 CT scan images**.
    - **Research Details**:
      - Collaborated with a 4-person team to optimize CNN models for higher accuracy by exploring hyperparameter settings like layer count, epochs, image orientation, clarity, and activation functions.
