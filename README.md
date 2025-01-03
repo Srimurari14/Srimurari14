@@ -29,11 +29,6 @@ Welcome to my GitHub profile! I’m a passionate **Data Scientist** and **Comput
      - Conducted experiments on multiple platforms: **CPU**, **GPU**, **HPC**, and **Quantum machines**. (Extended Research Work - This is done using DenseNet (Not Published)
    - **Outcomes**: Published research paper and presented findings at the **ICISC 2023 conference**, which helped advance the understanding of hyperparameter optimization in CNNs for medical imaging.
 
-
-## 📈 GitHub Stats
-
-![Sri Murari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Srimurari14&show_icons=true&count_private=true&hide=prs&theme=radical)
-
 ## 📫 How to Reach Me
 - Email: [dachepallisrimurari@gmail.com](mailto:dachepallisrimurari@gmail.com)
 - LinkedIn: [Sri Murari Dachepalli](https://www.linkedin.com/in/srimurari-dachepalli)
