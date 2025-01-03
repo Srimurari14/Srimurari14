@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I’m a passionate **Data Scientist** and **Comput
    - **Outcomes**: Published research paper and presented findings at the **ICISC 2023 conference**, which helped advance the understanding of hyperparameter optimization in CNNs for medical imaging.
 
 ## 🚀 Projects
-### 🔍 [Fuel Price Optimization](https://github.com/example/fuel-price-optimization)  
+### 🔍 **Fuel Price Optimization** 
 **Role:** Data Analyst  
 **Description:** A project developed for a client during my tenure at **Tiger Analytics**, focused on optimizing daily fuel pricing by analyzing client sales and competitor price changes. 
 **Responsibilities:**  
