@@ -1,49 +1,91 @@
-# 👋 Hi, I'm Sri Murari Dachepalli!
+# 👋 Hi, I’m Sri Murari Dachepalli
 
-Welcome to my GitHub profile! I’m a passionate **Data Scientist** and **Computer Science Master's Student** at **The George Washington University**, with a background in **data engineering**, **machine learning**, and **cloud technologies**. I enjoy solving complex problems and continuously learning new skills.
+I’m a **Computer Science master’s student** at **The George Washington University** with experience in **data engineering**, **data analysis**, and **machine learning**. I like working with real-world data, building reliable pipelines, and making data ready for analytics and decision-making.
+
+---
 
 ## 🎓 Education
-- **Master of Science in Computer Science**, *The George Washington University* (Expected: June 2026)  
-- **Bachelor of Technology in Computer Science**, *Gandhi Institute of Technology and Management* (Graduated: May 2023)  
-  CGPA: **8.89/10**
 
-## 💼 Work Experience
-- **Data Analyst at Tiger Analytics** (Oct 2023 - Jul 2024)  
-  I contributed to **pricing optimization**, **data pipeline automation**, and **predictive modeling** using tools like **PySpark**, **SQL**, and **Python**. My work resulted in a **reduction in processing time** and significant improvements in the model's performance.
+**Master of Science in Computer Science**
+The George Washington University — *Expected May 2026*
+
+**Bachelor of Technology in Computer Science**
+Gandhi Institute of Technology and Management — *May 2023*
+
+---
+
+## 💼 Experience
+
+### **Data Analyst — Tiger Analytics**
+
+*Oct 2023 – Jul 2024*
+
+* Built and maintained data pipelines using **Python**, **SQL**, and **PySpark**.
+* Worked on pricing and promotion analytics projects for U.S.-based clients.
+* Improved pipeline performance by optimizing transformations and partitions.
+* Prepared clean, analytics-ready datasets for reporting and downstream use.
+* Performed data validation and investigated data issues.
+* Worked with **Azure Databricks** and **AWS S3** for cloud-based data processing.
+
+---
 
 ## 🛠️ Technical Skills
-- **Programming Languages**: Python, R, SQL
-- **Tools & Libraries**: Pandas, NumPy, scikit-learn, TensorFlow, PySpark, dbt
-- **Cloud & Platforms**: Google Cloud Platform (GCP), Azure Databricks
-- **Databases**: MySQL, SQLite
-- **Softwares**: Tableau, Microsoft Suite
-- **Data Engineering**: ETL, Data Pipelines, Pandas UDF, Data Warehousing
-- **Version Control**: GitHub
 
-## 🔬 Research Work
-### **Assiduous Study of the Hyperparameters’ Influence on CNN Using COVID-19 CT Images**
-   - **Objective**: Conducted research on the impact of hyperparameters on the performance of **Convolutional Neural Networks (CNNs)** in analyzing **COVID-19 CT scan images**.
-   - **Research Details**:
-     - Collaborated with a 4-person team to optimize CNN models for higher accuracy by exploring hyperparameter settings like layer count, epochs, image orientation, clarity, and activation functions.
-     - After initial research, observed overfitting with training accuracy around 90% and test accuracy at 76%. By implementing **DenseNet architecture**, we improved accuracies to **90% (train)** and **89% (test)**.
-     - Conducted experiments on multiple platforms: **CPU**, **GPU**, **HPC**, and **Quantum machines**.
-   - **Outcomes**: Published research paper and presented findings at the **ICISC 2023 conference**, which helped advance the understanding of hyperparameter optimization in CNNs for medical imaging.
+**Languages:** Python, SQL, R  
+**Data Engineering:** ETL pipelines, data ingestion, data transformation, data validation, feature engineering  
+**Workflow & Orchestration:** Apache Airflow  
+**Containerization:** Docker  
+**Analytics & Libraries:** Pandas, NumPy  
+**Databases:** PostgreSQL, MySQL, SQLite  
+**Cloud & Platforms:** Azure Databricks, AWS S3  
+**Visualization & Reporting:** Tableau, Excel  
+**Version Control:** Git, GitHub  
+
+---
 
 ## 🚀 Projects
-### 🔍 **Fuel Price Optimization** 
-**Role:** Data Analyst  
-**Description:** A project developed for a client during my tenure at **Tiger Analytics**, focused on optimizing daily fuel pricing by analyzing client sales and competitor price changes. 
-**Responsibilities:**  
-- Conducted data exploration and prepared datasets by integrating client data, competitor data, and additional features like seasonality and trend.  
-- Built and fine-tuned a **Lasso regression model**, with its coefficients used in another model to recommend fuel prices twice daily.  
-- Automated the data preparation process using a pipeline and **Pandas UDFs** in **PySpark**, significantly reducing implementation time.  
-**Technologies:** Python, PySpark, SQL, Azure Databricks, Azure Blob Storage  
-**Achievements:** Improved data pipeline efficiency and contributed to a robust pricing strategy.
 
-## 📫 How to Reach Me
-- Email: [dachepallisrimurari@gmail.com](mailto:dachepallisrimurari@gmail.com)
-- LinkedIn: [Sri Murari Dachepalli](https://www.linkedin.com/in/srimurari-dachepalli)
-- GitHub: [@Srimurari14](https://github.com/Srimurari14)
+### **Retail Sales Analytics – Data Engineering Project**
 
-## 🤝 Let's Connect!
-- I'm always open to collaborating on interesting projects and learning from others. Feel free to reach out if you'd like to work together!
+* Designed and implemented an end-to-end data engineering pipeline using **Python** and **Pandas** on real-world e-commerce data.
+* Integrated datasets including orders, order items, customers, sellers, payments, and products while preserving one-to-many relationships.
+* Built modular pipeline stages for ingestion, cleaning, validation, transformation, and feature engineering.
+* Implemented explicit data quality and validation flags instead of dropping records to maintain data integrity.
+* Containerized the pipeline using **Docker** for reproducible execution.
+* Orchestrated pipeline runs using **Apache Airflow** running in Docker.
+* Engineered features such as delivery duration, item-level revenue, payment methods, and product volume.
+* Designed pipelines to be idempotent and deterministic for repeatable scheduled runs.
+
+---
+
+### **GenieVision – Text-to-Image Generation**
+
+* Built a text-to-image generation pipeline using **Latent Diffusion Models** as part of a graduate deep learning course.
+* Prepared and validated large image–text datasets for training and evaluation.
+* Worked with text embeddings, latent representations, and model evaluation metrics.
+* Analyzed generated outputs and summarized results.
+
+---
+
+## 🔬 Research
+
+### **Assiduous Study of the Hyperparameters’ Influence on CNN Using COVID-19 CT Images**
+
+* Studied the impact of hyperparameters on CNN performance for medical image classification.
+* Reduced overfitting by experimenting with model depth, training settings, and architecture choices.
+* Published and presented the work at an international conference.
+
+---
+
+## 📫 Contact
+
+* **Email:** [dachepallisrimurari@gmail.com](mailto:dachepallisrimurari@gmail.com)
+* **LinkedIn:** [https://www.linkedin.com/in/srimurari-dachepalli](https://www.linkedin.com/in/srimurari-dachepalli)
+* **GitHub:** [https://github.com/Srimurari14](https://github.com/Srimurari14)
+
+---
+
+## 🤝 About Me
+
+I enjoy working with data, understanding how systems behave in real-world scenarios, and building pipelines that are reliable and easy to explain. I’m always open to learning and collaborating on practical data projects.
+
