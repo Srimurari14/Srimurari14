@@ -80,5 +80,5 @@ Gandhi Institute of Technology and Management — *May 2023*
 ## 📫 Contact
 
 * **Email:** [dachepallisrimurari@gmail.com](mailto:dachepallisrimurari@gmail.com)
-* **LinkedIn:** [https://www.linkedin.com/in/srimurari-dachepalli](https://www.linkedin.com/in/srimuraridachepalli)
+* **LinkedIn:** [https://www.linkedin.com/in/srimuraridachepalli](https://www.linkedin.com/in/srimuraridachepalli)
 * **GitHub:** [https://github.com/Srimurari14](https://github.com/Srimurari14)
