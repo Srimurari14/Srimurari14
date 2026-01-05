@@ -80,12 +80,5 @@ Gandhi Institute of Technology and Management — *May 2023*
 ## 📫 Contact
 
 * **Email:** [dachepallisrimurari@gmail.com](mailto:dachepallisrimurari@gmail.com)
-* **LinkedIn:** [https://www.linkedin.com/in/srimurari-dachepalli](https://www.linkedin.com/in/srimurari-dachepalli)
+* **LinkedIn:** [https://www.linkedin.com/in/srimurari-dachepalli](https://www.linkedin.com/in/srimuraridachepalli)
 * **GitHub:** [https://github.com/Srimurari14](https://github.com/Srimurari14)
-
----
-
-## 🤝 About Me
-
-I enjoy working with data, understanding how systems behave in real-world scenarios, and building pipelines that are reliable and easy to explain. I’m always open to learning and collaborating on practical data projects.
-
