@@ -1,84 +1,44 @@
-# 👋 Hi, I’m Sri Murari Dachepalli
+# Hi, I'm Sri Murari
 
-I’m a **Computer Science master’s student** at **The George Washington University** with experience in **data engineering**, **data analysis**, and **machine learning**. I like working with real-world data, building reliable pipelines, and making data ready for analytics and decision-making.
+I'm finishing my Master's in Computer Science at GWU (May 2026) and looking for my first full-time role as a **Data Analyst** or **Data Engineer** (open to OPT sponsorship).
 
----
+I started as a Data Analyst at Tiger Analytics, where I built pipelines that turned messy data into clean reports for pricing decisions. That got me hooked on making data reliable and useful—so now I focus on end-to-end pipelines that analysts and teams can actually trust.
 
-## 🎓 Education
+## What I've Done
+- Built and tuned ETL pipelines in Python, PySpark, and SQL at Tiger Analytics (Oct 2023 – Jul 2024)
+- Worked with Azure Databricks and AWS S3 for real client projects
+- Learned to handle dirty data without losing important details
+- Started containerizing everything with Docker and orchestrating with Airflow
 
-**Master of Science in Computer Science**
-The George Washington University — *Expected May 2026*
+## Current Focus
+Right now I'm building projects that connect the dots:
+- Clean raw data → run quality checks → create useful features → make it easy to analyze or visualize
 
-**Bachelor of Technology in Computer Science**
-Gandhi Institute of Technology and Management — *May 2023*
+## Key Projects
+### Retail Sales Analytics (end-to-end pipeline)
+Real e-commerce orders (100k+ rows). Ingested multiple tables, cleaned and validated data, engineered features like delivery duration and item revenue, ran everything through Airflow in Docker.  
+→ [Repo](https://github.com/Srimurari14/retail-sales-analytics)  
+→ Adding Tableau dashboard soon for sales trends and delivery insights
 
----
+### Production Weather Pipeline
+Pulls live weather data via API → loads to Snowflake → transforms with dbt → scheduled via GitHub Actions.  
+→ [Repo](https://github.com/Srimurari14/production-weather-pipeline)
 
-## 💼 Experience
+### GenieVision (text-to-image)
+Built a diffusion model pipeline during my deep learning course.  
+→ [Repo](https://github.com/Srimurari14/GenieVision)
 
-### **Data Analyst — Tiger Analytics**
+## Skills Snapshot
+- **Languages**: Python, SQL  
+- **Data Tools**: Pandas, PySpark, Airflow, Docker, dbt  
+- **Cloud**: AWS S3, Azure Databricks, Snowflake  
+- **Viz**: Tableau, Excel  
+- **Other**: Git, data validation, feature engineering
 
-*Oct 2023 – Jul 2024*
+## Let's Connect
+I'm open to entry-level roles starting summer 2026. Feel free to reach out!  
+📧 [dachepallisrimurari@gmail.com]  
+🔗 [LinkedIn](https://www.linkedin.com/in/srimuraridachepalli)  
+🌐 Portfolio site coming soon (GitHub Pages)
 
-* Built and maintained data pipelines using **Python**, **SQL**, and **PySpark**.
-* Worked on pricing and promotion analytics projects for U.S.-based clients.
-* Improved pipeline performance by optimizing transformations and partitions.
-* Prepared clean, analytics-ready datasets for reporting and downstream use.
-* Performed data validation and investigated data issues.
-* Worked with **Azure Databricks** and **AWS S3** for cloud-based data processing.
-
----
-
-## 🛠️ Technical Skills
-
-**Languages:** Python, SQL, R  
-**Data Engineering:** ETL pipelines, data ingestion, data transformation, data validation, feature engineering  
-**Workflow & Orchestration:** Apache Airflow  
-**Containerization:** Docker  
-**Analytics & Libraries:** Pandas, NumPy  
-**Databases:** PostgreSQL, MySQL, SQLite  
-**Cloud & Platforms:** Azure Databricks, AWS S3  
-**Visualization & Reporting:** Tableau, Excel  
-**Version Control:** Git, GitHub  
-
----
-
-## 🚀 Projects
-
-### **Retail Sales Analytics – Data Engineering Project**
-
-* Designed and implemented an end-to-end data engineering pipeline using **Python** and **Pandas** on real-world e-commerce data.
-* Integrated datasets including orders, order items, customers, sellers, payments, and products while preserving one-to-many relationships.
-* Built modular pipeline stages for ingestion, cleaning, validation, transformation, and feature engineering.
-* Implemented explicit data quality and validation flags instead of dropping records to maintain data integrity.
-* Containerized the pipeline using **Docker** for reproducible execution.
-* Orchestrated pipeline runs using **Apache Airflow** running in Docker.
-* Engineered features such as delivery duration, item-level revenue, payment methods, and product volume.
-* Designed pipelines to be idempotent and deterministic for repeatable scheduled runs.
-
----
-
-### **GenieVision – Text-to-Image Generation**
-
-* Built a text-to-image generation pipeline using **Latent Diffusion Models** as part of a graduate deep learning course.
-* Prepared and validated large image–text datasets for training and evaluation.
-* Worked with text embeddings, latent representations, and model evaluation metrics.
-* Analyzed generated outputs and summarized results.
-
----
-
-## 🔬 Research
-
-### **Assiduous Study of the Hyperparameters’ Influence on CNN Using COVID-19 CT Images**
-
-* Studied the impact of hyperparameters on CNN performance for medical image classification.
-* Reduced overfitting by experimenting with model depth, training settings, and architecture choices.
-* Published and presented the work at an international conference.
-
----
-
-## 📫 Contact
-
-* **Email:** [dachepallisrimurari@gmail.com](mailto:dachepallisrimurari@gmail.com)
-* **LinkedIn:** [https://www.linkedin.com/in/srimuraridachepalli](https://www.linkedin.com/in/srimuraridachepalli)
-* **GitHub:** [https://github.com/Srimurari14](https://github.com/Srimurari14)
+Thanks for stopping by!
