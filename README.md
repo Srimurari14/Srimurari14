@@ -37,7 +37,7 @@ Built a diffusion model pipeline during my deep learning course.
 
 ## Let's Connect
 I'm open to entry-level roles starting summer 2026. Feel free to reach out!  
-📧 [dachepallisrimurari@gmail.com]  
+📧 [dachepallisrimurari@gmail.com](dachepallisrimurari@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/srimuraridachepalli)  
 🌐 Portfolio site coming soon (GitHub Pages)
 
