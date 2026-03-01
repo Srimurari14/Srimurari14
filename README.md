@@ -31,7 +31,7 @@ Built a diffusion model pipeline during my deep learning course.
 ## Skills Snapshot
 - **Languages**: Python, SQL  
 - **Data Tools**: Pandas, PySpark, Airflow, Docker, dbt  
-- **Cloud**: AWS S3, Azure Databricks, Snowflake  
+- **Cloud**: AWS, Azure Databricks, Snowflake  
 - **Viz**: Tableau, Excel  
 - **Other**: Git, data validation, feature engineering
 
