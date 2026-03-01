@@ -1,4 +1,4 @@
-# Hi, I'm Sri Murari
+# Hi, I am Sri Murari
 
 I am finishing my Master's in Computer Science at GWU (May 2026) and looking for a full-time role as a **Data Analyst** or **Data Engineer** (open to OPT sponsorship).
 
@@ -26,7 +26,7 @@ Pulls live weather data via API → loads to Snowflake → transforms with dbt �
 
 ### SchemaForge – AI Litigation Database Backend
 Modernizing the backend for DAIL (Database of AI Litigation – GW Law project). Migrated raw CSV case data to normalized PostgreSQL with true entities, referential entities, and bridge tables; built FastAPI CRUD + search endpoints.  
-→ [Repo](https://github.com/sudharshanreddyt/schema_forge)
+→ [Repo](https://github.com/sudharshanreddyt/schema_forge)  
 → [Live API Docs](https://schema-forge.onrender.com/docs)
 
 ### GenieVision (text-to-image)
