@@ -1,6 +1,6 @@
 # Hi, I'm Sri Murari
 
-I'm finishing my Master's in Computer Science at GWU (May 2026) and looking for my first full-time role as a **Data Analyst** or **Data Engineer** (open to OPT sponsorship).
+I am finishing my Master's in Computer Science at GWU (May 2026) and looking for a full-time role as a **Data Analyst** or **Data Engineer** (open to OPT sponsorship).
 
 I started as a Data Analyst at Tiger Analytics, where I built pipelines that turned messy data into clean reports for pricing decisions. That got me hooked on making data reliable and useful—so now I focus on end-to-end pipelines that analysts and teams can actually trust.
 
@@ -36,7 +36,7 @@ Built a diffusion model pipeline during my deep learning course.
 - **Other**: Git, data validation, feature engineering
 
 ## Let's Connect
-I'm open to entry-level roles starting summer 2026. Feel free to reach out!  
+I am open to entry-level roles starting summer 2026. Feel free to reach out!  
 📧 [dachepallisrimurari@gmail.com](dachepallisrimurari@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/srimuraridachepalli)  
 🌐 Portfolio site coming soon (GitHub Pages)
