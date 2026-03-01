@@ -11,7 +11,7 @@ I started as a Data Analyst at Tiger Analytics, where I built pipelines that tur
 - Started containerizing everything with Docker and orchestrating with Airflow
 
 ## Current Focus
-Right now I'm building projects that connect the dots:
+Right now I am building projects that connect the dots:
 - Clean raw data → run quality checks → create useful features → make it easy to analyze or visualize
 
 ## Key Projects
@@ -23,6 +23,11 @@ Real e-commerce orders (100k+ rows). Ingested multiple tables, cleaned and valid
 ### Production Weather Pipeline
 Pulls live weather data via API → loads to Snowflake → transforms with dbt → scheduled via GitHub Actions.  
 → [Repo](https://github.com/Srimurari14/production-weather-pipeline)
+
+### SchemaForge – AI Litigation Database Backend
+Modernizing the backend for DAIL (Database of AI Litigation – GW Law project). Migrated raw CSV case data to normalized PostgreSQL with true entities, referential entities, and bridge tables; built FastAPI CRUD + search endpoints.  
+→ [Repo](https://github.com/sudharshanreddyt/schema_forge)
+→ [Live API Docs](https://schema-forge.onrender.com/docs)
 
 ### GenieVision (text-to-image)
 Built a diffusion model pipeline during my deep learning course.  
