@@ -1,49 +1,34 @@
 # Hi, I am Sri Murari
 
-I am finishing my Master's in Computer Science at GWU (May 2026) and looking for a full-time role as a **Data Analyst** or **Data Engineer** (open to OPT sponsorship).
+I recently completed my Master's in Computer Science at GWU (May 2026) and am actively looking for full-time **Data Engineer**, **Analytics Engineer**, or **Data Analyst** roles starting summer 2026.
 
-I started as a Data Analyst at Tiger Analytics, where I built pipelines that turned messy data into clean reports for pricing decisions. That got me hooked on making data reliable and useful—so now I focus on end-to-end pipelines that analysts and teams can actually trust.
+I spent 10 months at **Tiger Analytics** as a Data Analyst, building hourly ETL pipelines and analytical models on Azure Databricks for US retail clients (a convenience store chain and a fast food chain). That experience pushed me toward end-to-end data work, building pipelines that analysts and stakeholders can actually trust.
 
-## What I've Done
-- Built and tuned ETL pipelines in Python, PySpark, and SQL at Tiger Analytics (Oct 2023 – Jul 2024)
-- Worked with Azure Databricks and AWS S3 for real client projects
-- Learned to handle dirty data without losing important details
-- Started containerizing everything with Docker and orchestrating with Airflow
-
-## Current Focus
-Right now I am building projects that connect the dots:
-- Clean raw data → run quality checks → create useful features → make it easy to analyze or visualize
-
-## Key Projects
-### Retail Sales Analytics (end-to-end pipeline)
-Real e-commerce orders (100k+ rows). Ingested multiple tables, cleaned and validated data, engineered features like delivery duration and item revenue, ran everything through Airflow in Docker.  
-→ [Repo](https://github.com/Srimurari14/retail-sales-analytics)  
-→ Adding Tableau dashboard soon for sales trends and delivery insights
+## Featured Projects
 
 ### Production Weather Pipeline
-Pulls live weather data via API → loads to Snowflake → transforms with dbt → scheduled via GitHub Actions.  
-→ [Repo](https://github.com/Srimurari14/production-weather-pipeline)
+End-to-end ELT: ingests live data from the OpenWeather API into Snowflake every 6 hours via internal stage and `COPY INTO`, transforms with dbt (staging to analytics layering with tests), and runs on a GitHub Actions cron schedule.
+[Repo](https://github.com/Srimurari14/production-weather-pipeline)
 
-### SchemaForge – AI Litigation Database Backend
-Modernizing the backend for DAIL (Database of AI Litigation – GW Law project). Migrated raw CSV case data to normalized PostgreSQL with true entities, referential entities, and bridge tables; built FastAPI CRUD + search endpoints.  
-→ [Repo](https://github.com/sudharshanreddyt/schema_forge)  
-→ [Live API Docs](https://schema-forge.onrender.com/docs)
+### Retail Sales Analytics
+Containerized data pipeline on 100K+ Olist e-commerce orders. Integrated 9 raw datasets at order-item grain, applied explicit data-quality flags instead of silently dropping rows, and authored SQL analytics on revenue, delivery, and voucher impact.
+[Repo](https://github.com/Srimurari14/retail-sales-analytics) | [Live Tableau Dashboard](https://public.tableau.com/app/profile/sri.murari.dachepalli/viz/E-CommerceSalesDeliveryPerformanceDashboard/Dashboard1)
 
-### GenieVision (text-to-image)
-Built a diffusion model pipeline during my deep learning course.  
-→ [Repo](https://github.com/Srimurari14/GenieVision)
+### SchemaForge (DAIL Backend)
+Modernizing the backend for GW Law's Database of AI Litigation. Migrated raw CSV case data into a normalized PostgreSQL schema with entity and bridge tables; built FastAPI CRUD and search endpoints.
+[Repo](https://github.com/sudharshanreddyt/schema_forge) | [Live API Docs](https://schema-forge.onrender.com/docs)
 
-## Skills Snapshot
-- **Languages**: Python, SQL  
-- **Data Tools**: Pandas, PySpark, Airflow, Docker, dbt  
-- **Cloud**: AWS, Azure Databricks, Snowflake  
-- **Viz**: Tableau, Excel  
-- **Other**: Git, data validation, feature engineering
+## Tech I Work With
 
-## Let's Connect
-I am open to entry-level roles starting summer 2026. Feel free to reach out!  
-📧 [dachepallisrimurari@gmail.com](dachepallisrimurari@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/srimuraridachepalli)  
-🌐 Portfolio site coming soon (GitHub Pages)
+**Languages:** Python, SQL
+**Data:** Pandas, PySpark, dbt, REST APIs, Parquet
+**Cloud and Warehousing:** Snowflake, AWS S3, Azure Databricks, Azure Blob Storage
+**Tools:** Git, GitHub Actions, Docker, Jupyter
+**BI:** Tableau, Excel
 
-Thanks for stopping by!
+## Get in Touch
+
+I am fully work authorized on F-1 STEM OPT (3 years, no sponsorship needed to start). Open to relocation.
+
+📧 dachepallisrimurari@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/srimuraridachepalli)
