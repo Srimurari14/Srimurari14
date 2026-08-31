@@ -45,7 +45,8 @@ schedule.
 
 ## Get in Touch
 
-I am fully work authorized on F-1 STEM OPT (3 years, no sponsorship needed to start). Open to relocation.
+I am authorized to work in the US and do not require sponsorship to start.  
+Open to relocation.
 
 📧 dachepallisrimurari@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/srimuraridachepalli)
